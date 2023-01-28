@@ -1,13 +1,12 @@
 
-# Globoplay Recrutamento 
+# Desafio
 
 ---
-![JPG](https://lh3.googleusercontent.com/62viiAWxbh_4QQdbdZOeO53yDsq1jZu_KyQstDpbXgTryhTIjrPzW9nr0eFkMuoxs6wx=s180)
 
 
 ## Bem vindo
 
-Obrigado por participar do desafio do Globoplay! Estamos muito contentes pelo seu primeiro passo para fazer parte de um time excepcional. Você deverá criar um aplicativo sobre filmes, usando a [API](https://developers.themoviedb.org/3/getting-started/introduction) do [TheMovieDB](https://www.themoviedb.org/?language=en).
+Obrigado por participar do desafio! Estamos muito contentes pelo seu primeiro passo para fazer parte de um time excepcional. Você deverá criar um aplicativo sobre filmes, usando a [API](https://developers.themoviedb.org/3/getting-started/introduction) do [TheMovieDB](https://www.themoviedb.org/?language=en).
 Para termos um layout minimamente definido, anexamos alguns assets que vão te ajudar a desenvolver esse app:
 
 - [ScreenShots](assets/screenshots)
